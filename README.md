@@ -3,7 +3,7 @@ Learning quantum computing from scratch using Qiskit and Python.
 
 ## Progress
 - [x] **Day 1:** Superposition & The Hadamard Gate
-- [ ] **Day 2:** The Bloch Sphere
+- [x] **Day 2:** The Bloch Sphere
 - [ ] **Day 3:** Change of Basis
 
 ## Tech Stack
